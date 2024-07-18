@@ -4,8 +4,8 @@
 With git:
 Clone the repository:
 
-git clone https://github.com/yourusername/rsa-project.git
-cd rsa-project
+git clone https://github.com/moe3dali/rsa.git
+cd rsa
 
 ## For the file-encryptor and message-encryptor, the program will guide you through the encryption/decryption (run the program name in the command prompt). For the password-protector, usage is as follows
 password.py file (location of file) -s xxx -e/-d
