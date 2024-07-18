@@ -1,0 +1,1 @@
+This project is a encryptor-decryptor using RSA to encrypt and decrypt, and create public and private key. This was created with Python version 3.12.4 and is executed on the command line. It has dependency on cryptography library in python.
