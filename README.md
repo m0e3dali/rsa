@@ -1,6 +1,9 @@
 # RSA Cryptography Program
 ## This project is a encryptor-decryptor using RSA and Fernet to encrypt and decrypt, and create public and private key. Variations include the use of a password to protect the message, encryption of message and encryption of files, This was created with Python version 3.12.4 and is executed on the command line. It has dependency on cryptography library in python.
-## This project can be run from the command line once it is downloaded and unzipped, assuming the python and cryptography libraries are installed in the computer
+## This project can be run from the command line once it is downloaded and unzipped
+## Dependencies:
+Python 3, cryptography library in pip
+## Installation
 With git:
 Clone the repository:
 
