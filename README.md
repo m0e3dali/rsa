@@ -5,7 +5,7 @@
 password.py file (location of file) -s xxx -e/-d
 ## -s determines the salt amount of the file with the passed size, -e/-d determines wheter to encrypt or decrypt the file
 ## Dependencies:
-Python 3, cryptography library in pip
+Python 3, cryptography library in pip https://cryptography.io/en/latest/
 ## Installation
 With git:
 Clone the repository:
