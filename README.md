@@ -14,4 +14,3 @@ git clone https://github.com/moe3dali/rsa.git
 cd rsa
 
 ## This program can be used for learning/personal purpose.
--# Copyright
